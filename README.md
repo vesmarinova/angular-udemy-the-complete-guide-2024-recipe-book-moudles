@@ -1,4 +1,4 @@
-# AngularUdemyTheCompleteGuide2024RecipeBookMoudles
+# Angular, Udemy - The Complete Guide 2024 - Recipe Book, Moudles
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
 
