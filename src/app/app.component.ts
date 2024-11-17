@@ -13,6 +13,6 @@ export class AppComponent {
   onNavigate(feature:string){
     console.log(feature);
     this.loadedFeature=feature;
-
   }
+  
 }
