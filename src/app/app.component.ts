@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-udemy-the-complete-guide-2024-recipe-book-moudles';
+
+  loadedFeature='recipe';
+
+  onNavigate(feature:string){
+    console.log(feature);
+    this.loadedFeature=feature;
+
+  }
 }
